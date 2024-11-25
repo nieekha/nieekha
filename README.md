@@ -1,4 +1,4 @@
-👋 Hi, I’m @nitesh
+👋 Hi, I’m nitesh
 👀 I’m interested in web development (HTML, CSS), digital marketing, SEO, game development, and music creation.
 🌱 I’m currently learning SEO and improving my graphic design skills with Canva and Adobe Illustrator.
 💞️ I’m looking to collaborate on fun retro-style game projects, web design ideas, or digital marketing strategies for businesses.
